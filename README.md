@@ -17,9 +17,6 @@ Strong interest in **Frontend development, React ecosystem, and modern web techn
   <a href="https://github.com/entidagreat" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="PORTFOLIO" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/web.png"/>
-  </a>
   <a href="[YOUR_LINKEDIN_LINK]" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
@@ -33,6 +30,10 @@ Strong interest in **Frontend development, React ecosystem, and modern web techn
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
+## My Portfolio
+🌐 **[Visit My Portfolio Website](PORTFOLIO_LINK_HERE)**  
+*Explore my projects, skills, and development journey*
 
 ## Skills & Tools
 <p align="center">
