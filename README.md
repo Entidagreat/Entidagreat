@@ -29,9 +29,6 @@ Strong interest in **Frontend development, React ecosystem, and modern web techn
   <a href="https://t.me/thachphir" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
   </a>
-  <a href="https://wx.qq.com/s/pngson" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/wechat.png"/>
-  </a>
   <a href="mailto:pngthach112@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
@@ -60,7 +57,7 @@ Strong interest in **Frontend development, React ecosystem, and modern web techn
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
   <img src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
   <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="photoshop"/>
-  <img src="https://img.icons8.com/color/48/swagger.png" alt="swagger"/>
+  <i class="devicon-swagger-plain colored" style="font-size: 48px;"></i>
 </p>
 
 ## Projects
