@@ -57,7 +57,7 @@ Strong interest in **Frontend development, React ecosystem, and modern web techn
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="vscode"/>
   <img src="https://img.icons8.com/color/48/figma.png" alt="figma"/>
   <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="photoshop"/>
-  <i class="devicon-swagger-plain colored" style="font-size: 48px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="48" height="48"/>
 </p>
 
 ## Projects
